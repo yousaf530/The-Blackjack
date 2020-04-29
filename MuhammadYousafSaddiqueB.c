@@ -1,6 +1,4 @@
-/* Muhammad Yousaf Saddique
-   BSCS-8-B
-   Reg Number : 254025  */
+/* Muhammad Yousaf Saddique*/
 
    // The BlackJack Game Program
 
